@@ -1,7 +1,6 @@
 //************************************
 // PARCS output analysis code
-// AUTHOR: DOAN QUANG TUYEN, NGUYEN DINH QUEN, NGUYEN HOANG TU, NGUYEN DUC HA
-// Reactor Physics Group, Nuclear Safety Division, VARANS
+// AUTHOR: DOAN QUANG TUYEN
 //************************************
 
 #include "include/type.h"
@@ -36,8 +35,7 @@ void test(const Char_t *filename)
 		cout<<"--------------------********-----------------"<<endl;
 		cout<<"----------------------***-----------------"<<endl;
 		cout<<"PARCS output analysis code"<<endl;
-		cout<<"AUTHOR: DOAN QUANG TUYEN, NGUYEN DINH QUEN, NGUYEN HOANG TU, NGUYEN DUC HA"<<endl;
-		cout<<"Reactor Physics Group, Nuclear Safety Division, VARANS"<<endl;
+		cout<<"AUTHOR: DOAN QUANG TUYEN"<<endl;
 		cout<<"-----------------------------------------------"<<endl;
 		cout<<" main program: Start analysis ... "<<endl;
 		cout<<"-----------------------------------------------"<<endl;
