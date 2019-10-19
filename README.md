@@ -6,7 +6,7 @@ Input data in text format:
 
 output of analysis:<br>
 
-<img src="./docs/PowDistr_14_0_15.png" width="600">
+<img src="./docs/PowDistr_14_0_15.png" width="800">
 
 <embed src="/output_Data/output_10percent/output_10percent.avi"></embed>
 
