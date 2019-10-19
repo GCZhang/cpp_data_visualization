@@ -142,10 +142,6 @@ void test(const Char_t *filename)
 				Core->readOutModeReset();
 			} 
 			
-			
-				
-			
-			
 		}
 	
 		Core->~Core();

@@ -1,7 +1,6 @@
 //************************************
 // PARCS output analysis code
-// AUTHOR: DOAN QUANG TUYEN, NGUYEN DINH QUEN, NGUYEN HOANG TU, NGUYEN DUC HA
-// Reactor Physics Group, Nuclear Safety Division, VARANS
+// AUTHOR: DOAN QUANG TUYEN
 //************************************
 
 #ifndef TYPE_H
