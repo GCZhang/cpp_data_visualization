@@ -3,7 +3,7 @@ visualization of output data of PARCS (computer code for nuclear reactor) using 
 This analysis was performed in 2015, with ROOT version 5.2<br>
 
 
-to run this code, you need to install ROOT (cern)<br>
+to run this code, you need to install ROOT (cern), start ROOT then in command line, run: <br>
  > .L showCoreConfig.C<br>
  > test()
 
