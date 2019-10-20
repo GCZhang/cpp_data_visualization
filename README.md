@@ -10,9 +10,5 @@ output of analysis:<br>
 
 <img src="./docs/PowDistr_14_0_15.png" width="800">
 
-<embed src="/output_Data/output_10percent/output_10percent.avi"></embed>
 
-<video width="400" controls>
-  <source src="/output_Data/output_10percent/output_10percent.avi" type="video/x-msvideo">
-</video>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/joDI_G37_9g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
