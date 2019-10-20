@@ -1,13 +1,19 @@
 # cpp_data_visualization
 visualization of output data of PARCS (computer code for nuclear reactor) using ROOT (c++ framework)
 
+to run this code, you need to install ROOT (cern)<br>
+ > .L showCoreConfig.C<br>
+ > test()
 
-Input data in text format:
+for new ROOT version, you might need to modify the code to run it.
 
+Algorithm used in this code: <br>
+ - read data by condition<br>
+ - clustering<br>
+
+Input data in text format<br>
 output of analysis:<br>
-
 (see figures and video in folder output_Data/output_10percent and output_Data/output_100percent/)<br>
-
 <img src="./docs/PowDistr_14_0_15.png" width="800">
 
 video data at 10% power:<br>
