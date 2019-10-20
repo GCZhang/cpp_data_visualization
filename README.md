@@ -1,5 +1,7 @@
 # cpp_data_visualization
-visualization of output data of PARCS (computer code for nuclear reactor) using ROOT (c++ framework)
+visualization of output data of PARCS (computer code for nuclear reactor) using ROOT (c++ framework https://root.cern.ch/)<br>
+This analysis was performed in 2015, with ROOT version 5.2<br>
+
 
 to run this code, you need to install ROOT (cern)<br>
  > .L showCoreConfig.C<br>
