@@ -10,6 +10,8 @@ output of analysis:<br>
 
 <img src="./docs/PowDistr_14_0_15.png" width="800">
 
-<div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/joDI_G37_9g" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+video data at 10% power:<br>
+[![Alt text](https://img.youtube.com/vi/0CeiG6oXPEk/0.jpg)](https://www.youtube.com/watch?v=0CeiG6oXPEk)
+
+video data at 100% power:<br>
+[![Alt text](https://img.youtube.com/vi/joDI_G37_9g/0.jpg)](https://www.youtube.com/watch?v=joDI_G37_9g)
